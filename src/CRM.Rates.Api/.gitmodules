@@ -1,0 +1,6 @@
+[submodule "triton.service"]
+	path = triton.service
+	url = http://texzadcelastic/triton-express/triton.service.git
+[submodule "triton.core"]
+	path = triton.core
+	url = http://texzadcelastic/triton-express/triton.core.git

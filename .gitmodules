@@ -1,0 +1,3 @@
+[submodule "src/CRM.Rates.Api/triton.service"]
+	path = src/CRM.Rates.Api/triton.service
+	url = http://texzadcelastic/triton-express/triton.service.git
